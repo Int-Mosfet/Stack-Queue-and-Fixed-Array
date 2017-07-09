@@ -1,4 +1,4 @@
-// $Id: assignment2.mpc 378 2010-02-07 22:09:38Z hillj $
+// MPC file to build this project
 
 project (assignment2v2) {
   exename = assignment2v2
